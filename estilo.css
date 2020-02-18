@@ -1,5 +1,9 @@
 table.primera {
-    background-color: lightblue;
+    background-color: lightblue; 
+    border: red
+    5px solid;
+}
+p.wearecolor {
+    color: red;
     font-family: 'Zhi Mang Xing', cursive;
-
 }
