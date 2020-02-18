@@ -33,16 +33,21 @@ section.listas {
 }
 ul.lista {
     list-style-type: decimal;
-
-    
 }
 section.adivinarcolores  {
     background-color: lightsteelblue;
+    width: 1000px;
 }
 table.adivinar {
     background-color: chocolate;
     width: 200px;
     height: 30px;
+}
+td.azul {
+    background-color: blue;
+    border: red
+    2px solid;
+    width: 500px;
 }
 table.bonito {
     background-color: chocolate;
