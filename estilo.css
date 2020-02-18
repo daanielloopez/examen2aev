@@ -2,8 +2,64 @@ table.primera {
     background-color: lightblue; 
     border: red
     5px solid;
+    height: 100px;
+    width: 1000px;
 }
-p.wearecolor {
+td.wearecolor {
     color: red;
     font-family: 'Zhi Mang Xing', cursive;
+   text-align: center;
+}
+table.segunda {
+    background-color: lightyellow;
+    height: 50px;
+    width: 1000px;
+    border: red
+    5px solid;
+}
+tr.tablacolores {
+    background-color: lightblue;
+    border: red
+    5px solid;
+    text-align: center;
+    width: 100px;
+    height: 20px;
+}
+section.listas {
+    background-color: lightyellow;
+    border: red
+    5px solid;
+    width: 1000px;
+}
+ul.lista {
+    list-style-type: decimal;
+
+    
+}
+section.adivinarcolores  {
+    background-color: lightsteelblue;
+}
+table.adivinar {
+    background-color: chocolate;
+    width: 200px;
+    height: 30px;
+}
+table.bonito {
+    background-color: chocolate;
+    border-top: orange 10px dotted;
+    border-bottom: yellow 15px dashed;
+    border-left: red 25px solid;
+    border-right: red 25x solid;
+    height: 60px;
+    width: 1000px;
+}
+td.textobonito {
+    color: yellow;
+    text-align: center;
+}
+table.fin {
+    background-color: lightslategrey;
+    width: 1000px;
+    height: 70px;
+    text-align: center;
 }
